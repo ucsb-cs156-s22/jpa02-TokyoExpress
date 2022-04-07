@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s22/jpa02-TokyoExpress
 
-On Heroku: https://cs156-s22-jpa02-samuelzguo.herokuapp.com
+On Heroku: https://jpa02-samuelzguo.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-samuelzguo
 
